@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mockup2/static/css/main.788e807f.css",
+    "main.js": "/mockup2/static/js/main.1a699cb1.js",
+    "static/js/787.26a32b36.chunk.js": "/mockup2/static/js/787.26a32b36.chunk.js",
+    "index.html": "/mockup2/index.html",
+    "main.788e807f.css.map": "/mockup2/static/css/main.788e807f.css.map",
+    "main.1a699cb1.js.map": "/mockup2/static/js/main.1a699cb1.js.map",
+    "787.26a32b36.chunk.js.map": "/mockup2/static/js/787.26a32b36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788e807f.css",
+    "static/js/main.1a699cb1.js"
+  ]
+}
