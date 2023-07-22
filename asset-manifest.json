@@ -1,0 +1,29 @@
+{
+  "files": {
+<<<<<<< Updated upstream
+    "main.css": "/mockup/static/css/main.788e807f.css",
+    "main.js": "/mockup/static/js/main.484e48fe.js",
+    "static/js/787.26a32b36.chunk.js": "/mockup/static/js/787.26a32b36.chunk.js",
+    "index.html": "/mockup/index.html",
+    "main.788e807f.css.map": "/mockup/static/css/main.788e807f.css.map",
+    "main.484e48fe.js.map": "/mockup/static/js/main.484e48fe.js.map",
+    "787.26a32b36.chunk.js.map": "/mockup/static/js/787.26a32b36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.788e807f.css",
+    "static/js/main.484e48fe.js"
+=======
+    "main.css": "/reactApp/static/css/main.f55c77ef.css",
+    "main.js": "/reactApp/static/js/main.43e710fa.js",
+    "static/js/787.bb06cf65.chunk.js": "/reactApp/static/js/787.bb06cf65.chunk.js",
+    "index.html": "/reactApp/index.html",
+    "main.f55c77ef.css.map": "/reactApp/static/css/main.f55c77ef.css.map",
+    "main.43e710fa.js.map": "/reactApp/static/js/main.43e710fa.js.map",
+    "787.bb06cf65.chunk.js.map": "/reactApp/static/js/787.bb06cf65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f55c77ef.css",
+    "static/js/main.43e710fa.js"
+>>>>>>> Stashed changes
+  ]
+}
